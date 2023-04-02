@@ -1,0 +1,59 @@
+body {
+    background-color: #ecf0f1;
+    margin: 0;
+    padding: 0;     
+ }
+ 
+ .wrapper {
+     
+ }
+ 
+ .container {
+     width: 1200px;
+     height: 100vh;
+     margin: auto;
+     padding-left: 10px;
+     padding-left: 10px;
+     background: #bdc3c7;
+ }
+ 
+ .sidebar {
+     width: 400px;
+     height: px;
+     float: left;
+ }
+ 
+ .content {
+     width: 800px;
+     height: px;
+     float: right;
+ }
+ 
+ .clear {
+     clear: both;
+ }
+ 
+ #logo {
+     float: left;
+     width: 450px;
+     height: auto;
+     padding: 30px;
+     margin-top: 70px;
+ }
+ 
+ #logo img {
+     max-width: 100%;
+     height: auto;
+ }
+
+ .konten {
+    padding-top: 10px;
+    padding-bottom: 60px;
+    float: left;
+    width: 500px;
+ }
+
+ .konten p {
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
